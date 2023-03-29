@@ -1,8 +1,8 @@
 # test app react
 
-APIS:
-○ https://reqres.in. (re)
-○ https://jsonplaceholder.typicode.com (jt)
+APIS IMPLEMENTADAS:
+ https://reqres.in. (re)
+ https://jsonplaceholder.typicode.com (jt)
 
 
 APP CREADA USANDO NPM CREATE VITE
